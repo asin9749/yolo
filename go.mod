@@ -10,7 +10,7 @@ require (
 	github.com/go-chi/jsonp v0.0.0-20170809160916-b971022286e2
 	github.com/gobuffalo/packr/v2 v2.8.0
 	github.com/gogo/gateway v1.1.0
-	github.com/gogo/protobuf v1.3.1
+	github.com/gogo/protobuf v1.3.2
 	github.com/golang/protobuf v1.4.2
 	github.com/google/go-github/v32 v32.1.0
 	github.com/gregjones/httpcache v0.0.0-20190611155906-901d90724c79
@@ -36,7 +36,6 @@ require (
 	go.uber.org/zap v1.16.0
 	golang.org/x/lint v0.0.0-20200302205851-738671d3881b // indirect
 	golang.org/x/oauth2 v0.0.0-20200107190931-bf48bf16ab8d
-	golang.org/x/sys v0.0.0-20200615200032-f1bc736245b1 // indirect
 	google.golang.org/appengine v1.6.6 // indirect
 	google.golang.org/genproto v0.0.0-20200617032506-f1bdc9086088
 	google.golang.org/grpc v1.29.1
